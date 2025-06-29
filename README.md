@@ -29,7 +29,7 @@ After switching to a **larger, more realistic dataset**, the model's predictions
 
 ## 📈 Output Visualization
 
-![Scatter Plot](assets/actual_vs_predicted.png)
+![Scatter Plot](Graph.png)
 
 ---
 
